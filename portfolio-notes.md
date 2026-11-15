@@ -12,3 +12,5 @@
 ## 旅游管理 Web 应用
 - 目的地内容、评论收藏、游记、行程、投稿审核与运营看板。
 - Next.js / React / Prisma / NextAuth。
+- 项目代码已上传 GitHub：https://github.com/jiachenyou5-dev/travel-app 。
+- 当前为私有仓库，仅授权用户可查看；旅游应用暂未提供公开在线演示。
